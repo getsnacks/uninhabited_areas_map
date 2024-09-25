@@ -1,5 +1,5 @@
 # Uninhabited Areas Analysis in Türkiye
-
+![alt text](image.png)
 ## Overview
 This project aims to analyze uninhabited areas in a country using the Global Human Settlement Layer (GHSL) data. The analysis involves downloading population data, cropping it to Türkiye's borders, and visualizing the results with a raster map.
 
@@ -27,3 +27,4 @@ The borders of Türkiye are fetched using the giscoR package.
 
 ### To display the map, make sure to include the following line at the end of your script:
 `print(p)`
+
